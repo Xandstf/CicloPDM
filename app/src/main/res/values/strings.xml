@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ciclo PDM</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="e_mail">E-mail</string>
+    <string name="digite_seu_e_mail">Digite seu e-mail</string>
+    <string name="nome">Nome</string>
+    <string name="digite_seu_telefone">Digite seu telefone</string>
+    <string name="telefone">Telefone</string>
+</resources>
